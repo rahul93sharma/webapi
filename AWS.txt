@@ -1,0 +1,43 @@
+Gmail id:
+Sanitizeme.co.in@gmail.com
+Sanitize@1234
+
+AWS account:
+https://aws.amazon.com/console/#
+
+https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Fconsole.aws.amazon.com%2Fconsole%2Fhome%3Fstate%3DhashArgs%2523%26isauthcode%3Dtrue&client_id=arn%3Aaws%3Aiam%3A%3A015428540659%3Auser%2Fhomepage&forceMobileApp=0&code_challenge=YXizbnVq2u38sYKl1Lx4NKqiTYNlmqjRE0duEQHjLRc&code_challenge_method=SHA-256
+
+ID:           chalutafripe@gmail.com
+Password:     tafri@1234
+
+
+AWS virtual machine password
+iezB$y?6q3M=PccnTCZCZqzcZ&UF4d2=
+
+Public DNS	ec2-54-255-177-14.ap-southeast-1.compute.amazonaws.com
+User name	Administrator
+Password	
+iezB$y?6q3M=PccnTCZCZqzcZ&UF4d2= 
+
+Hosting on IIS AWS
+https://aws.amazon.com/premiumsupport/knowledge-center/public-website-ec2-iis/
+
+database 5.6.37
+Server name:
+myrds.ci1a12wqlmju.ap-southeast-1.rds.amazonaws.com
+
+Databasename
+myrds
+
+port 3306
+
+pswd-
+SanitizeMe
+
+user name-
+Myrds1
+
+DB name
+dbprod
+
+https://aws.amazon.com/premiumsupport/knowledge-center/rds-connectivity-instance-subnet-vpc/

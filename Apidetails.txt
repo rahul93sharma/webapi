@@ -1,0 +1,62 @@
+Post call:
+
+1.Details page:
+
+http://www.sanitizeme.co.in/api/api/CustomerDetails
+
+appliation/json
+
+
+Request:
+{
+
+"Name":"Ravindra patidar",
+"ContactNumber":"9009355103",
+"Email":"abc@gmail.com",
+"Address":"06, narmada nagar, khargone,MP",
+"ServiceSelected":"Home sanitize, garden sanitize, car sanitize",
+"VehicleServiceSelected":"yes",
+"AtShowroom":"yes"
+}
+
+response
+"success"
+
+2.City selection page: 
+
+Http://www.sanitizeme.co.in/api/Showroomdetails
+
+appliation/json
+
+Request:
+{
+
+"City":"Khargone"
+
+}
+
+response
+
+{
+
+"ShowroomContact":"99939939339",
+"ShowroomAddress":"jawahar marg, khargone"
+
+}
+
+Table Details:--
+
+CustomerDetails
+
+AgencyContactDetails
+ 
+ 
+
+
+
+
+
+
+
+
+
